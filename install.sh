@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configurar variables
-REPO_URL="https://github.com/tu-usuario/proyecto-bot-mercadopago.git"
+REPO_URL="https://github.com/tutuka29/proyecto-bot-mercadopago.git"
 PROJECT_DIR="/opt/proyecto-bot-mercadopago"
 PYTHON_VERSION="3.9"
 VENV_DIR="${PROJECT_DIR}/venv"
